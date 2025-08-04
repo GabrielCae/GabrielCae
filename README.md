@@ -18,7 +18,7 @@ Atualmente estou estudando **Machine Learning** e praticando com projetos basead
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+[![GabrielCae's GitHub stats](https://github-readme-stats-mery9t0tw-gabrielcaes-projects.vercel.app/api?username=GabrielCae&theme=radical&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/GabrielCae)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCae&layout=compact&langs_count=16&theme=tokyonight"/>
 
 </div>
