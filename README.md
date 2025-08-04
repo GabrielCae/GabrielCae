@@ -18,7 +18,7 @@ Atualmente estou estudando **Machine Learning** e praticando com projetos basead
 
 <div align="center">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCae&show_icons=true&theme=radical&hide=prs,issues)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCae&layout=compact&theme=radical)
 
 </div>
