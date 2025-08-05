@@ -21,8 +21,6 @@ Atualmente estou estudando **Machine Learning** e praticando com projetos basead
   <a href="https://github.com/GabrielCae">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCae&layout=compact&langs_count=16&theme=tokyonight"/>
-
-  [![Snake animation](https://github.com/jvneto/jvneto/blob/output/github-contribution-grid-snake.svg)](https://github.com/jvneto)
   
 </div>
 
