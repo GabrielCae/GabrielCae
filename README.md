@@ -45,7 +45,7 @@ Atualmente estou estudando **Machine Learning** e praticando com projetos basead
 ## 📌 Repositórios em destaque
 
 🔹 **[B-Almoxarifado](https://github.com/GabrielCae/B-Almoxarifado)** — sistema feito com Electron para Almoxarifado de uma empresa."  
-🔹 **[GFinanças](https://github.com/GabrielCae/GFinancas)** — projeto full-stack para gerenciamento de finanças (**⚠️ Em Desenvolvimento**)."  
+🔹 **[Primeira API com Node.js](https://github.com/GabrielCae/Node-Primeira-API)** — primeira API com Node.js, criada a partir do curso da Rocketseat, com mais algumas features adicionadas (**⚠️ Em Desenvolvimento**)."  
 🔹 **[ML Hands-On](https://github.com/GabrielCae/Maos-a-Obra-Livro)** — códigos do livro "Mãos à Obra: Aprendizado de Máquina."  
 🔹 **[Beecrowd Exercices](https://github.com/GabrielCae/BeeCrowd-Exercises)** — repositório para guardar códigos produzidos para a resolução de exercícios do site BeeCrowd."  
 🔹 Em breve, mais projetos!
